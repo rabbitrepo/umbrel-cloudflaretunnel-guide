@@ -1,0 +1,16 @@
+{
+  "name": "umbrel-cloudflaretunnel-guide",
+  "version": "1.0.0",
+  "description": "🌐 The easiest way to make Umbrel Apps public!",
+  "keywords": [
+    "umbrel",
+    "bitcoin",
+    "lightning",
+    "self-hosting",
+    "home-server",
+    "personal-server",
+    "cloudflare",
+    "cloudflare-tunnel"
+  ],
+  "license": "UNLICENSED"
+}
