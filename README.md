@@ -75,7 +75,7 @@ Overall, Cloudflare Tunnel offers a safer and more secure way to expose your loc
 ### 3. Set-up Cloudflare Tunnel
 
 - Go to https://dash.cloudflare.com, click **"Zero Trust"** at the left navbar
-- Goto **"Access"** then **"Tunnel"**
+- Go to **"Access"** then **"Tunnel"**
 - Click **"Create a tunnel"**, give it a funny name, then click **"Save tunnel"** 
   ![](images/p6.png)  
 - Choose **"Docker"**, you'll found a command like this
@@ -130,7 +130,7 @@ Overall, Cloudflare Tunnel offers a safer and more secure way to expose your loc
     
         ![](images/p9.png)
 
-        I'll use LNBits as an example. In this case the local ip is **"192.168.1.209"** and LNBits is using port **"3305"** .
+        I'll use LNBits as an example. In this case the local ip is **"192.168.1.209"** and LNBits is using port **"3375"** .
     
     
     </details>
