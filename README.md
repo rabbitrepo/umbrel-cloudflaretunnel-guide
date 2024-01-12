@@ -24,6 +24,11 @@ For these use cases, **it's better to have your Umbrel Apps accessible via your 
 
 <br />
 
+**January 2024 update:** Now there is a [Cloudflare Tunnel app](https://apps.umbrel.com/app/cloudflared) the Unbrel store providing simple configuration and dashboard UI. You can proceed with the following guide and use this app instead of configuring the daemon through SSH.
+
+<img src="https://github.com/rabbitrepo/umbrel-cloudflaretunnel-guide/assets/5675681/8565c4b6-10b5-40be-806c-10e9dfc9e1e0" width=300 alt="Cloudflare Tunnel app" />
+
+
 ---
 
 ## What is [**Cloudflare Tunnel**](https://www.cloudflare.com/products/tunnel/) ?
