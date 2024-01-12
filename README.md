@@ -42,6 +42,10 @@ Overall, Cloudflare Tunnel offers a safer and more secure way to expose your loc
 
 ## Tutorial
 
+**January 2024 update:** Now there is a [Cloudflare Tunnel app](https://apps.umbrel.com/app/cloudflared) in the Umbrel store providing simple configuration and dashboard UI. You can proceed with the following guide and use this app instead of configuring the daemon through SSH.
+
+<img src="images/cloudflare-tunnel-app.png" width=300 alt="Cloudflare Tunnel app" />
+
 <br />
 
 ### 1. Sign up for a free Cloudflare Account 
